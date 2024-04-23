@@ -56,6 +56,5 @@ for file in os.listdir(directory):
         f = file_to_open 
 '''
 ###problem: can name all files inside directory now but cannot access files inside directory
-###solution: state path to files inside directory?
 
         
